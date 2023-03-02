@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe{
+    margin: 2px;
+}
+div iframe{
+    border-radius: 5px;
+}
+
+button{
+    background-color: #212529;
+    color: #dee2e6;
+    border: 0;
+}
+button:hover{
+    background-color: #dee2e6;
+    color: #212529;
+}
+
+div a{
+    color: #dee2e6;
+    margin: 0 5px 0;
+}
+div a:hover{
+    color: aqua;
+}
+
+div ul li{
+    margin-top: 10px;
+}
+
+img:hover{
+    transition: 0.3s;
+    transform: scale(1.5);
+}
